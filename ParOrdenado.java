@@ -1,6 +1,6 @@
 
 /**
- *Tarea 10 del practico N1
+ *Tarea 10 del practico N1 (rama master)
  */
 public class ParOrdenado {
     
