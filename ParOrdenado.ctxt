@@ -1,10 +1,6 @@
 #BlueJ class context
 comment0.target=ParOrdenado
-<<<<<<< HEAD
-comment0.text=\nTarea\ 10\ del\ practico\ N1\ PROBANDO\ QUE\ (rama1)\ FUNCIONE.\n
-=======
-comment0.text=\nTarea\ 10\ del\ practico\ N1\ (rama\ master)\n
->>>>>>> 847563f65f6bf37e59e4ee1aeab271bec556823b
+comment0.text=\n<<<<<<<\ HEAD\nTarea\ 10\ del\ practico\ N1\ (rama1)\ \n\=\=\=\=\=\=\=\ //\ prueba\ dos\ de\ parOrdenado\nTarea\ 10\ del\ practico\ N1\ (rama\ master)\n>>>>>>>\ 847563f65f6bf37e59e4ee1aeab271bec556823b\n
 comment1.params=
 comment1.target=ParOrdenado()
 comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ParOrdenado\n

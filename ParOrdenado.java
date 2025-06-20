@@ -1,8 +1,8 @@
 
 /**
 <<<<<<< HEAD
- *Tarea 10 del practico N1 PROBANDO QUE (rama1) FUNCIONE.
-=======
+ *Tarea 10 del practico N1 (rama1) 
+======= // prueba dos de parOrdenado
  *Tarea 10 del practico N1 (rama master)
 >>>>>>> 847563f65f6bf37e59e4ee1aeab271bec556823b
  */
