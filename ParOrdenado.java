@@ -1,12 +1,12 @@
 
 /**
- *Tarea 10 del practico N1 (rama1)
+ *Tarea 10 del practico N1 PROBANDO QUE (rama1) FUNCIONE.
  */
 public class ParOrdenado {
     
     private int primerComponente;
     private int segundoComponente;
-    
+    private int num;
     
     /**
      * Constructor for objects of class ParOrdenado
